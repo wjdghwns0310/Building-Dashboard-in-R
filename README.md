@@ -1,6 +1,8 @@
 # How to launch the dashboard
 ## 1st option. Run the code below
-runGitHub("Building-Dashboard-in-R", "wjdghwns0310")
+library(shiny)
+runGitHub("Building-Dashboard-in-R/app", "wjdghwns0310")
+
 
 ## 2nd option. directly check my shinyapp page
 https://hojunjung.shinyapps.io/Shiny_app_Hojun/
