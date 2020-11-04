@@ -1,6 +1,6 @@
 # How to launch the dashboard
 ## 1st option. Run the code below
-library(shiny)
+library(shiny);
 runGitHub("Building-Dashboard-in-R/app", "wjdghwns0310")
 
 
