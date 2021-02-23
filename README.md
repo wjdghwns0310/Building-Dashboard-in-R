@@ -2,7 +2,7 @@
 ## 1st option. Run the code below
 library(shiny)
 
-runGitHub("Building-Dashboard-in-R/app", "wjdghwns0310")
+runGitHub("Building-a-Job-market-dashboard-with-R/app", "wjdghwns0310")
 
 
 ## 2nd option. directly check my shinyapp page
